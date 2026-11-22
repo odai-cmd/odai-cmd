@@ -16,7 +16,7 @@
 \<p align="center">
 &#x20; \<a href="https://www.linkedin.com/in/odai-wahib-68616528b/">LinkedIn\</a> •
 &#x20; \<a href="https://github.com/odai-cmd">GitHub\</a> •
-&#x20; \<a href="mailto\:odi.wahib2005@gmail.com">Email\</a>
+&#x20; \<a href="mailto:odi.wahib2005@gmail.com">Email me\</a>
 \</p>
 
 ---
