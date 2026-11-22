@@ -2,7 +2,7 @@
 
 ### Cybersecurity Enthusiast | Aspiring Red Team Specialist | Security Researcher
 
-\<img src="assets/github-banner.png" width="100%" alt="Cybersecurity Banner" />
+\<img src="assets/Banner.png" width="100%" alt="assets/GitHub Dashboard.png" />
 
 \<p align="center">
 &#x20; \<a href="YOUR_LINKEDIN_URL">LinkedIn\</a> •
