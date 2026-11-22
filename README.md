@@ -206,14 +206,15 @@ A web development project focused on showcasing tire-based furniture products th
 
 ## 📈 GitHub Statistics
 
-\<p align="center">
-&#x20; \<img src="[https://github-readme-stats.vercel.app/api?username=odai-cmd&show_icons=true&theme=tokyonight&hide_border=true](https://github-readme-stats.vercel.app/api?username=odai-cmd\&show_icons=true\&theme=tokyonight\&hide_border=true)" height="165" />
-&#x20; \<img src="[https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=tokyonight&hide_border=true](https://github-readme-stats.vercel.app/api/top-langs/?username=odai-cmd\&layout=compact\&theme=tokyonight\&hide_border=true)" height="165" />
-\</p>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=odai-cmd&show_icons=true&theme=tokyonight&hide_border=true" height="165" />
 
-\<p align="center">
-&#x20; \<img src="[https://streak-stats.demolab.com?user=YOUR_GITHUB_USERNAME&theme=tokyonight&hide_border=true](https://streak-stats.demolab.com?user=YOUR_GITHUB_USERNAME\&theme=tokyonight\&hide_border=true)" width="70%" />
-\</p>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=odai-cmd&layout=compact&theme=tokyonight&hide_border=true" height="165" />
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=odai-cmd&theme=tokyonight&hide_border=true" width="70%" />
+</p>
 
 ---
 
@@ -221,15 +222,16 @@ A web development project focused on showcasing tire-based furniture products th
 
 I'm always interested in connecting with cybersecurity professionals, developers, researchers, and people who love technology.
 
-If you're working on interesting cybersecurity projects, exploring offensive security, or building something innovative, let's connect!
+<p align="center">
+  <a href="https://www.linkedin.com/in/odai-wahib-68616528b/">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin" />
+  </a>
 
-\<p align="center">
-&#x20; \<a href="https://www.linkedin.com/in/odai-wahib-68616528b/">
-&#x20;   \<img src="[https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge\&logo=linkedin)" />   \</a>   \<a href="mailto:odi.wahib2005@gmail.com">     \<img src="[https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail&logoColor=white](https://img.shields.io/badge/Email-Contact-red?style=for-the-badge\&logo=gmail\&logoColor=white)" />
-&#x20; \</a>
-\</p>
+  <a href="mailto:odi.wahib2005@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-Contact_Me-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+</p>
 
----
 
 <p align="center">
 &#x20; <i>"The best way to defend a system is to understand how it can be attacked."</i>
