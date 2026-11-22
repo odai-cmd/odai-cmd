@@ -41,21 +41,12 @@ My primary interests lie in **Offensive Security, Red Teaming, and Penetration T
 ## 🛠️ Technical Skills
 
 ### Programming & Web Development
-
-\<p>
-\<img src="[https://skillicons.dev/icons?i=c,html,css,js,mysql]https://skillicons.dev/icons?i=c,html,css,js,mysql" />
-\</p>
-
 - C
 - HTML & CSS
 - JavaScript
 - SQL / MySQL
 
 ### Cybersecurity & Security Tools
-
-\<p>
-\<img src="[https://skillicons.dev/icons?i=linux,kali,bash,git,github,docker](https://skillicons.dev/icons?i=linux,kali,bash,git,github,docker)" />
-\</p>
 
 | Domain                   | Skills & Tools         |
 | ------------------------ | ---------------------- |
