@@ -34,7 +34,7 @@ My primary interests lie in **Offensive Security, Red Teaming, and Penetration T
 ### Programming & Web Development
 
 \<p>
-\<img src="[https://skillicons.dev/icons?i=c,html,css,js,mysql](https://skillicons.dev/icons?i=c,html,css,js,mysql)" />
+\<img src="[https://skillicons.dev/icons?i=c,html,css,js,mysql]https://skillicons.dev/icons?i=c,html,css,js,mysql" />
 \</p>
 
 - C
