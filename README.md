@@ -2,12 +2,21 @@
 
 ### Cybersecurity Enthusiast | Aspiring Red Team Specialist | Security Researcher
 
-\<img src="Cybersecurity Enthusiast Neon Banner.png" width="100%" alt="Neon Cybersecurity GitHub Dashboard.png" />
+<p align="center">
+  <img src="./Cybersecurity%20Enthusiast%20Neon%20Banner.png"
+       width="100%"
+       alt="Odai Mohsen Wahib - Cybersecurity Banner">
+</p>
 
+<p align="center">
+  <img src="./Neon%20Cybersecurity%20GitHub%20Dashboard.png"
+       width="100%"
+       alt="Cybersecurity Dashboard">
+</p>
 \<p align="center">
-&#x20; \<a href="YOUR_LINKEDIN_URL">LinkedIn\</a> •
-&#x20; \<a href="YOUR_GITHUB_URL">GitHub\</a> •
-&#x20; \<a href="mailto\:YOUR_EMAIL">Email\</a>
+&#x20; \<a href="https://www.linkedin.com/in/odai-wahib-68616528b/">LinkedIn\</a> •
+&#x20; \<a href="https://github.com/odai-cmd">GitHub\</a> •
+&#x20; \<a href="mailto\:odi.wahib2005@gmail.com">Email\</a>
 \</p>
 
 ---
